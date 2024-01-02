@@ -1,0 +1,16 @@
+.hovereff div .card:hover{
+    box-shadow: 2px 4px 20px 10px black, -2px -4px 20px 10px black;
+    background-color: white;
+    color: black;
+  }
+.showroom{
+    background-image: url("banner.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.hovereff div .card{
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: 1s;
+    color: white;   
+}
